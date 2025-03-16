@@ -31,6 +31,7 @@
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .description {
@@ -51,7 +52,7 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 45%;
   z-index: 1;
 
   animation-name: floating;
@@ -101,10 +102,10 @@
 }
 
 @media screen and (max-width: 830px) {
-    .container {
-        flex-direction: column-reverse;
-    }
-    .content {
-        align-items: center;
-    }
+  .container {
+    flex-direction: column-reverse;
+  }
+  .content {
+    align-items: center;
+  }
 }

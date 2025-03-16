@@ -9,7 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Vinoth</h1>
         <p className={styles.description}>
-        I am an Undergraduate student at Sabaragamuwa University of Sri Lanka, studying Computing and Information Systems. Reach out if you’d like to learn more!
+          I am an Undergraduate student at Sabaragamuwa University of Sri Lanka,
+          <br /> studying Computing and Information Systems.
+          <br /> Reach out if you’d like to learn more!
         </p>
         <a href="mailto:vino6810403@gmail.com" className={styles.contactBtn}>
           Contact Me
