@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Edusity",
+    "imageSrc": "../../../assets/projects/project.png",
+    "description": "This is a website for an University",
+    "skills": ["HTML", "CSS", "React"],
+    "demo": "https://www.linkedin.com/in/vinoth-rasamanickam-537597302",
+    "source": "https://github.com/vinoth1211/Edusity.git"
+  },
+  {
+    "title": "Momentum EventWorks",
+    "imageSrc": "../../../assets/projects/project.png",
+    "description": "This is a website for an Event Management Company",
+    "skills": ["HTML",  "JavaScript", "Tailwind"],
+    "demo": "https://www.linkedin.com/in/vinoth-rasamanickam-537597302",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Exclusive",
+    "imageSrc": "../../../assets/projects/project.png",
+    "description": "This is a website for an Online Shopping Store",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.linkedin.com/in/vinoth-rasamanickam-537597302",
     "source": "https://www.github.com"
   }
 ]

@@ -1,29 +1,12 @@
 [
   {
-    "role": "",
-    "organization": "",
-    "startDate": "",
-    "endDate": "",
-    "experiences": ["", ""],
-    "imageSrc": ""
-  },
-  {
-    "role": "",
-    "organization": "",
-    "startDate": "",
-    "endDate": "",
-    "experiences": ["", ""],
-    "imageSrc": ""
-  },
-  {
-    "role": "",
-    "organization": "",
-    "startDate": "",
-    "endDate": "",
+    "role": "Student Volunteer",
+    "organization": "ICARC 2025 ",
+    "startDate": "19 Feb 2025",
+    "endDate": "20 Feb 2025",
     "experiences": [
-      "",
-      ""
+      "Contributed to the smooth execution of the event by handling logistics and participant engagement."
     ],
-    "imageSrc": ""
+    "imageSrc": "../../../assets/history/event.png"
   }
 ]
